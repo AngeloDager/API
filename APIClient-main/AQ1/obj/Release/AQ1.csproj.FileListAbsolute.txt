@@ -1,0 +1,13 @@
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\bin\Release\AQ1.exe.config
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\bin\Release\AQ1.exe
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\bin\Release\AQ1.pdb
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\bin\Release\CommonUtils.dll
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\bin\Release\Newtonsoft.Json.dll
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\bin\Release\CommonUtils.pdb
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\bin\Release\CommonUtils.dll.config
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\bin\Release\Newtonsoft.Json.xml
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\obj\Release\AQ1.csproj.AssemblyReference.cache
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\obj\Release\AQ1.csproj.CoreCompileInputs.cache
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\obj\Release\AQ1.csproj.CopyComplete
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\obj\Release\AQ1.exe
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\obj\Release\AQ1.pdb

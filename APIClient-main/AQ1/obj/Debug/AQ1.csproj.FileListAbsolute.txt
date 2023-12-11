@@ -1,0 +1,13 @@
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\bin\Debug\AQ1.exe.config
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\bin\Debug\AQ1.exe
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\bin\Debug\AQ1.pdb
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\bin\Debug\CommonUtils.dll
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\bin\Debug\CommonUtils.pdb
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\bin\Debug\CommonUtils.dll.config
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\obj\Debug\AQ1.csproj.AssemblyReference.cache
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\obj\Debug\AQ1.csproj.CoreCompileInputs.cache
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\obj\Debug\AQ1.csproj.CopyComplete
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\obj\Debug\AQ1.exe
+C:\Users\anthony.calva\source\repos\APIClient\AQ1\obj\Debug\AQ1.pdb

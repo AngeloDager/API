@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CDD7B807-25C0-4A55-9F03-C47551DBCFA7}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>AQ1</RootNamespace>
+    <AssemblyName>AQ1</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConnectEndpoints.cs" />
+    <Compile Include="Endpoint\EndpointDailyLimits.cs" />
+    <Compile Include="Endpoint\EndpointSonic.cs" />
+    <Compile Include="Endpoint\EndpointSonicRate.cs" />
+    <Compile Include="Endpoint\EndpointTemperatureWater.cs" />
+    <Compile Include="Endpoint\EndpointDissolveOxygen.cs" />
+    <Compile Include="Endpoint\EndpointAmountFed.cs" />
+    <Compile Include="Endpoint\EndpointZone.cs" />
+    <Compile Include="Init.cs" />
+    <Compile Include="Mapper\DailyLimits.cs" />
+    <Compile Include="Mapper\MetricByZone.cs" />
+    <Compile Include="Mapper\Sonic.cs" />
+    <Compile Include="Mapper\SonicRate.cs" />
+    <Compile Include="Model\DailyLimits.cs" />
+    <Compile Include="Model\Days.cs" />
+    <Compile Include="Model\ExtraDailyLimits.cs" />
+    <Compile Include="Model\ExtraSonic.cs" />
+    <Compile Include="Model\ExtraSonicRate.cs" />
+    <Compile Include="Model\Limits.cs" />
+    <Compile Include="Model\Rates.cs" />
+    <Compile Include="Model\ResultDailyLimits.cs" />
+    <Compile Include="Model\ResultSonic.cs" />
+    <Compile Include="Model\ResultSonicRate.cs" />
+    <Compile Include="Model\Sonic.cs" />
+    <Compile Include="Model\SonicRate.cs" />
+    <Compile Include="Model\SonicSettings.cs" />
+    <Compile Include="Model\User.cs" />
+    <Compile Include="Model\ZoneMetric.cs" />
+    <Compile Include="Model\Metric.cs" />
+    <Compile Include="Model\Zone.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CommonUtils\CommonUtils.csproj">
+      <Project>{ffd03be7-b6c7-49d0-98f6-b5e0c72cb969}</Project>
+      <Name>CommonUtils</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

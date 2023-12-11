@@ -1,0 +1,17 @@
+C:\Users\anthony.calva\source\repos\APIClient\APIClient\bin\Release\APIClient.exe.config
+C:\Users\anthony.calva\source\repos\APIClient\APIClient\bin\Release\APIClient.exe
+C:\Users\anthony.calva\source\repos\APIClient\APIClient\bin\Release\AQ1.exe
+C:\Users\anthony.calva\source\repos\APIClient\APIClient\bin\Release\GuiasEmpacadora.exe
+C:\Users\anthony.calva\source\repos\APIClient\APIClient\bin\Release\CommonUtils.dll
+C:\Users\anthony.calva\source\repos\APIClient\APIClient\bin\Release\Newtonsoft.Json.dll
+C:\Users\anthony.calva\source\repos\APIClient\APIClient\bin\Release\AQ1.pdb
+C:\Users\anthony.calva\source\repos\APIClient\APIClient\bin\Release\AQ1.exe.config
+C:\Users\anthony.calva\source\repos\APIClient\APIClient\bin\Release\GuiasEmpacadora.pdb
+C:\Users\anthony.calva\source\repos\APIClient\APIClient\bin\Release\GuiasEmpacadora.exe.config
+C:\Users\anthony.calva\source\repos\APIClient\APIClient\bin\Release\CommonUtils.pdb
+C:\Users\anthony.calva\source\repos\APIClient\APIClient\bin\Release\CommonUtils.dll.config
+C:\Users\anthony.calva\source\repos\APIClient\APIClient\bin\Release\Newtonsoft.Json.xml
+C:\Users\anthony.calva\source\repos\APIClient\APIClient\obj\Release\APIClient.csproj.AssemblyReference.cache
+C:\Users\anthony.calva\source\repos\APIClient\APIClient\obj\Release\APIClient.csproj.CoreCompileInputs.cache
+C:\Users\anthony.calva\source\repos\APIClient\APIClient\obj\Release\APIClient.csproj.CopyComplete
+C:\Users\anthony.calva\source\repos\APIClient\APIClient\obj\Release\APIClient.exe

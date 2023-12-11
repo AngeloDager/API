@@ -1,0 +1,13 @@
+C:\Users\anthony.calva\source\repos\APIClient\GuiasEmpacadora\bin\Debug\GuiasEmpacadora.exe.config
+C:\Users\anthony.calva\source\repos\APIClient\GuiasEmpacadora\bin\Debug\GuiasEmpacadora.exe
+C:\Users\anthony.calva\source\repos\APIClient\GuiasEmpacadora\bin\Debug\GuiasEmpacadora.pdb
+C:\Users\anthony.calva\source\repos\APIClient\GuiasEmpacadora\bin\Debug\CommonUtils.dll
+C:\Users\anthony.calva\source\repos\APIClient\GuiasEmpacadora\bin\Debug\Newtonsoft.Json.dll
+C:\Users\anthony.calva\source\repos\APIClient\GuiasEmpacadora\bin\Debug\CommonUtils.pdb
+C:\Users\anthony.calva\source\repos\APIClient\GuiasEmpacadora\bin\Debug\CommonUtils.dll.config
+C:\Users\anthony.calva\source\repos\APIClient\GuiasEmpacadora\bin\Debug\Newtonsoft.Json.xml
+C:\Users\anthony.calva\source\repos\APIClient\GuiasEmpacadora\obj\Debug\GuiasEmpacadora.csproj.AssemblyReference.cache
+C:\Users\anthony.calva\source\repos\APIClient\GuiasEmpacadora\obj\Debug\GuiasEmpacadora.csproj.CoreCompileInputs.cache
+C:\Users\anthony.calva\source\repos\APIClient\GuiasEmpacadora\obj\Debug\GuiasEmpacadora.csproj.CopyComplete
+C:\Users\anthony.calva\source\repos\APIClient\GuiasEmpacadora\obj\Debug\GuiasEmpacadora.exe
+C:\Users\anthony.calva\source\repos\APIClient\GuiasEmpacadora\obj\Debug\GuiasEmpacadora.pdb
